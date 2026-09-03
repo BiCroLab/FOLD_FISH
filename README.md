@@ -4,7 +4,7 @@ Github Repository with scripts used in [Li-Wang, Della Chiara et al.](./)
 
 ### Scripts:
 
-- [Chromosome Territories](./Chromosome_Territories/)
+- [Chromosomes Territories](./Chr_Territories/)
 
 <br>
 
