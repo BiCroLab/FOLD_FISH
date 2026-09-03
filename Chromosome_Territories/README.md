@@ -1,0 +1,4 @@
+For the quantitative analysis of chromosome territory organization, we designed custom Python workflows to compute:
+
+- chromosome territory **radial positioning** using `CT_EDT.py`, which calculates the Euclidean distance transform (EDT) within individual nuclear masks and samples the distance from the nuclear periphery at each chromosome territory centroid. Distances are converted to micrometers and additionally normalized to the maximum EDT value of the corresponding nucleus to account for differences in nuclear size;
+- chromosome territory **3D volume** using `CT_convex_hull.py`, which groups detected FISH dots by nucleus and chromosome, converts their 3D coordinates to physical units, and calculates the volume occupied by each chromosome territory using a three-dimensional convex hull. Territory-level measurements are subsequently filtered for extreme volume and dot-count outliers and summarized across chromosomes.
