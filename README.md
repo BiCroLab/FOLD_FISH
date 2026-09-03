@@ -9,9 +9,9 @@ Github Repository with scripts used in [Li-Wang, Della Chiara et al.](./)
 <br>
 
 
-### Datasets and Annotations:
+### Datasets and Images:
 
-- Raw Data: All sequencing data produced in this study are stored in
+All the source data (raw images) related to the microscopy images shown in the main and supplementary figures as well as the processed data tables used to generate all the plots shown in the main and supplementary figures have been deposited on Biostudies at https://www.ebi.ac.uk/biostudies/studies/S-BIAD2429. Large tissue scans shown in the figures can be visualized with zoom level customization at www.tumorheterogeneity.eu.
 
 <br>
 
