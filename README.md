@@ -4,7 +4,9 @@ Github Repository with scripts used in [Li-Wang, Della Chiara et al.](./)
 
 ### Scripts:
 
-- [Chromosomes Territories](./Chr_Territories/)
+- Matlab scripts to [characterize and visualize probes](./oncokb_probe_characterization/)
+- Matlab scripts to [analyze images and study chromosomes territories](./matlab_image_analysis/)
+- Python scripts to [analyse chromosomes territories](./chr_territories/)
 
 <br>
 
